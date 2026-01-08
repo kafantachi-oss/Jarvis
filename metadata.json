@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of JARVIS OS",
+  "description": "Sistema de Inteligência Artificial Stark Industries com Protocolo de Visão e Voz em Tempo Real.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
